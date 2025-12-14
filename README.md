@@ -31,7 +31,7 @@ The project was developed as part of an academic course and focuses on practical
 <img src="block_diag.png" width="600">
 
 ### Circuit Diagram
-<img src="ckt_ddiag.png" width="600">
+<img src="ckt_diag.png" width="600">
 
 ---
 
